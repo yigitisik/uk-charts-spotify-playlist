@@ -97,7 +97,6 @@ uk-charts-spotify-playlist/
 - Check that the date is valid (charts may not exist for very old dates)
 
 ## Contributing
-
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
@@ -105,11 +104,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgments
-
 - UK Official Charts Company for chart data
 - Spotify Web API for music streaming integration
 
 ## Disclaimer
-
 This project is for educational purposes. Please respect the terms of service for both the Official Charts website and Spotify API.
-```
